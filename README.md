@@ -1,7 +1,7 @@
 # Proyecto de aplicacion para una Aerolinea
 
 ## DESCRIPCION
-![1](https://github.com/SergioPorrasA/Aerolinea_Proyecto/assets/168385961/7b7e7db0-2ccd-43ff-ad5d-2341e71df7c7)
+![1](https://github.com/SergioPorrasA/Aerolinea_Proyecto/assets/168385961/f76b31d7-1d77-4336-aef8-2431b375be06)
 Para este proyecto se implementó el Modelo-Vista-Controlador (MVC) para organizar y gestionar la lógica de la aplicación, la interfaz de usuario y la entrada del usuario de manera estructurada.
 
 
@@ -12,7 +12,9 @@ Para este proyecto se implementó el Modelo-Vista-Controlador (MVC) para organiz
 
 - Actualización Dinámica: Los campos de selección se actualizan dinámicamente según las selecciones anteriores.
 
-- Información Seleccionada: Proporciona diferentes metodos que se utilizan para obtener informacion de vuelos o usuarios
+- Información Seleccionada: Proporciona diferentes metodos que se utilizan para obtener informacion de vuelos o usuarios.
+
+- Ofrece graficas para revisar el "funcionamiento o estadisticas" del proyecto.
 
 - Envio de correos electronicos: Esta herramienta se utiliza en la aplicacion para enviar correos electronicos con archivos .pdf adjuntos desde una cuenta creada solo con fines practicos (despues de haber subido este proyecto, la contraseña de aplicacion para usar este correo sera eliminada, pero a continuacion te dejo un enlace para poder crear una cuenta y hacer uso de ella para la implementacion de esta aplicacion: https://youtu.be/ZggjlwLzrxg?si=_gSkm33CbqOke3MG).
 
@@ -121,7 +123,7 @@ Debes primero ejecutar el script del documento llamado "aerolinea", despues de h
 - Hemos creado un manual de usuario para que veas el funcionamiento del programa. Para verlo da click en el siguiente enlace:
 https://drive.google.com/file/d/1xyYbvI6tWGo2opsPfLZp1bdUNT6ZO5MI/view?usp=sharing
 
-![2](https://github.com/SergioPorrasA/Aerolinea_Proyecto/assets/168385961/6b795c46-64ec-4c63-b3c3-d4bdfc23f361)
+![2](https://github.com/SergioPorrasA/Aerolinea_Proyecto/assets/168385961/2d0a2177-8b56-46c1-88a6-20246083854b)
 
 ## AUTORES:
 - Porras Avendaño Sergio Ezequiel - Ing. en Sistemas Computacionales ***ITO*** [https://github.com/SergioPorrasA]
